@@ -31,7 +31,7 @@ Welcome back! This is going to be more of a demonstration than a tutorial, just 
 <br />
 
 <p>
-<img src="https://imgur.com/leZ464j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bAC6cqK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Just for ease of use, and to not dirty up my actual computer, I'm going to use an Azure VM. First, I'll make a folder for everything related to the demo on the VM. Then, I'll create a few mock text files and open PowerShell as an Admin to begin. I'll paste the source code into PowerShell and then save the .ps1 file into the FIM folder. I'll also make sure that the file path is set correctly to show up in \\Desktop.
@@ -39,7 +39,7 @@ Just for ease of use, and to not dirty up my actual computer, I'm going to use a
 <br /> 
 
 <p>
-<img src="https://imgur.com/leZ464j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ejazv70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, I'll run the program and it will give me two options. I'll create a new baseline and it will create a new .txt file with SHA512 hashes for each document.
@@ -47,10 +47,10 @@ Next, I'll run the program and it will give me two options. I'll create a new ba
 <br /> 
 
 <p>
-<img src="https://imgur.com/leZ464j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TwmTjUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the program is running, we can observe various changes, and the FIM will notify us. See above image.
+Once the program is running, we can observe various changes such as a file changing or being created, and the FIM will notify us. See above image.
 </p>
 <br /> 
 
